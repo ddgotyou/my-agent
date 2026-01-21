@@ -1,0 +1,47 @@
+# 依赖
+node_modules/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# 环境变量
+.env
+.env.local
+.env.*.local
+
+# 数据库
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# 构建输出
+dist/
+build/
+*.egg-info/
+
+# 日志
+*.log
+logs/
+
+# Expo
+.expo/
+.expo-shared/
+
+# 其他
+coverage/
+.nyc_output/
+
